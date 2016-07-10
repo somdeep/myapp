@@ -1,2 +1,2 @@
 # myapp
-Ionic - Android and Ios app
+Ionic - Android and iOS app
